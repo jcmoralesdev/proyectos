@@ -1,0 +1,13 @@
+html{
+    height: 100%;
+    color: rgb(8, 8, 8);
+}
+
+body{
+    background-color: #ebc03286;
+    background-image: url(./cuaderno.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    text-align: center;
+}

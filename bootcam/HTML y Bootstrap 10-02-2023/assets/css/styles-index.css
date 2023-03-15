@@ -1,0 +1,25 @@
+html{
+    height: 100%;
+}
+
+body{
+    background-image: url(/assets/img/delish-202002-pupusas-0245-landscape-pf-1582324200.jpg);
+}
+
+div.container{
+    text-align: center;
+}
+
+.container {
+    color: #ffffff;
+    font-size: 20px;
+    padding: 1px 1px;
+    background-color: rgba(129, 36, 36, 0.5);
+    border-radius: 5px; 
+    margin-right: 400px;
+    margin-left: 400px;
+}
+
+div.card{
+    color: black;
+}
